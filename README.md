@@ -8,7 +8,7 @@
 ----
 ## Process
 1. 用正規表示式匯入所需投票資訊檔案  
-![image](https://github.com/chewingho/2020Tawainese-general-election/blob/master/%E6%8A%95%E7%A5%A8%E7%8E%87%E4%B8%8B%E8%BC%89%E8%B3%87%E6%96%99%E5%A4%BE%E4%B9%8B%E6%AA%94%E6%A1%88.PNG)
+> ![image](https://github.com/chewingho/2020Tawainese-general-election/blob/master/%E6%8A%95%E7%A5%A8%E7%8E%87%E4%B8%8B%E8%BC%89%E8%B3%87%E6%96%99%E5%A4%BE%E4%B9%8B%E6%AA%94%E6%A1%88.PNG)
 2. 透過Function清理投票資訊  
 > (1)整理前  
 ![image](https://github.com/chewingho/2020Tawainese-general-election/blob/master/%E7%B8%BD%E7%B5%B1%E6%8A%95%E7%A5%A8%E7%8E%87%E5%8E%9F%E5%A7%8B%E8%B3%87%E6%96%99.PNG)  
@@ -33,8 +33,8 @@
 1. 2020/03/22 首次上傳:2020台灣正副總統得票率視覺化分析.ipynb
 ----
 ## Resources
-[2020總統(副總統)選舉資料](https://db.cec.gov.tw/histMain.jsp?voteSel=20200101A1)  
-[台灣地理資料](https://data.gov.tw/dataset/7438)   
+* [2020總統(副總統)選舉資料](https://db.cec.gov.tw/histMain.jsp?voteSel=20200101A1)  
+* [台灣地理資料](https://data.gov.tw/dataset/7438)   
 ----
 ## Thanks
-[From Pandas to GeoPandas - 地理資料處理與分析](https://www.slideshare.net/ssusereaac8d/from-pandas-to-geopandas?next_slideshow=1)
+* [From Pandas to GeoPandas - 地理資料處理與分析](https://www.slideshare.net/ssusereaac8d/from-pandas-to-geopandas?next_slideshow=1)
